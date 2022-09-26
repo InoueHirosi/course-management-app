@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">講座管理アプリ</string>
+    <string name="title_home">ホーム</string>
+    <string name="title_dashboard">お気に入り</string>
+    <string name="title_notifications">進捗</string>
+    <string name="tvName">講座名</string>
+    <string name="tvTeacherName">講師名</string>
+    <string name="progress">進捗率</string>
+    <string name="text_on">お気に入りに登録しました</string>
+    <string name="text_off">お気に入りを解除しました</string>
+    <string name="error">エラーが発生しました</string>
+    <string name="topics">講義数</string>
+    <string name="tips">ヒント</string>
+    <string name="tips_message">・教師アイコンをタップするとお気に入り登録ができます\n・スワイプするとデータが更新されます</string>
+    <string name="connection_error">通信エラー</string>
+    <string name="retry_message">数分後にやり直してください</string>
+    <string name="return_message">ホーム画面からやり直してください</string>
+    <string name="startValue">0 %</string>
+    <string name="endValue">100 %</string>
+</resources>

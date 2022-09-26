@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CourseManagementApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Bookmark</string>
+    <string name="title_notifications">Progress</string>
+    <string name="tvName">Name</string>
+    <string name="tvTeacherName">Teacher Name</string>
+    <string name="progress">Progress</string>
+    <string name="text_on">Set Bookmark</string>
+    <string name="text_off">Unset Bookmark</string>
+    <string name="error">An Error Has Occurred</string>
+    <string name="topics">Number of Topics</string>
+    <string name="tips">Tips</string>
+    <string name="tips_message">・Tap teacher\'s icon to set bookmark\n・Swipe to refresh data</string>
+    <string name="connection_error">Connection Error</string>
+    <string name="retry_message">Please try again after a minute</string>
+    <string name="return_message">Please return home screen</string>
+    <string name="startValue">0 %</string>
+    <string name="endValue">100 %</string>
+</resources>
